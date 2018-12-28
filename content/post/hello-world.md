@@ -7,7 +7,6 @@ coverImage = "https://res.cloudinary.com/gh-devikanth/image/upload/v1545998099/u
 coverMeta = "In"
 coverSize = "Full"
 date = "2018-12-28T17:31:00+05:30"
-draft = true
 gallery = []
 keywords = ["Hugo", "Forestry", "Tranquilpeak"]
 metaAlignment = "Right"
