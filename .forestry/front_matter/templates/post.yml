@@ -40,24 +40,6 @@ fields:
     as thumbnail image, if nothing selected in the thumbnail image portion
   config:
     maxSize: '10'
-- type: boolean
-  name: showMeta
-  label: Show Meta
-  description: Do you want to display the date, category, etc.,?
-- type: select
-  config:
-    source:
-      type: simple
-    options:
-    - Full
-    - Partial
-  name: coverSize
-  label: Size of Cover Image
-  description: Full - Display full page, partial - display 60% of the image
-- type: text
-  name: coverCaption
-  label: Cover Caption
-  description: caption for cover image
 - type: select
   config:
     source:
@@ -69,35 +51,12 @@ fields:
   label: Cover Meta
   description: Where to display the Post Title and Date? In -on top of image; Out
     - outside the image
-- type: select
-  config:
-    source:
-      type: simple
-    options:
-    - Center
-    - Right
-    - Left
-  name: metaAlignment
-  label: Meta Alignment
-  description: The Post title and Dates would show in the selected position
 - type: file
   label: Thumbnail Image
   name: thumbnailimage
   description: Thumbnail Image, if different from cover Image
   config:
     maxSize: '10'
-- type: select
-  name: thumbnailImagePosition
-  config:
-    source:
-      type: simple
-    options:
-    - Bottom
-    - Left
-    - Right
-    - Top
-  label: Thumbnail Image Position
-  description: keep it Top as default
 - type: tag_list
   name: tags
   label: Tags
