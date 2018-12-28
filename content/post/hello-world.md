@@ -17,7 +17,7 @@ showSocial = true
 showTags = true
 summary = "I have setup this blog using Hugo Framework, Tranquilpeak Theme and Forestry for Content Management System."
 tags = ["Blog", "Hugo", "Forestry"]
-thumbnailImagePosition = "Bottom"
+thumbnailImagePosition = "Top"
 thumbnailimage = ""
 title = "Hello World!"
 
