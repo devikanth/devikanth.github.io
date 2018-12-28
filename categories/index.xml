@@ -10,5 +10,14 @@
 	<atom:link href="https://devikanth.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Hugo</title>
+      <link>https://devikanth.github.io/categories/hugo/</link>
+      <pubDate>Fri, 28 Dec 2018 17:31:00 +0530</pubDate>
+      
+      <guid>https://devikanth.github.io/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

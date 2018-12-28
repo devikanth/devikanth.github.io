@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Devi&#39;s Personal Blog</title>
-    <link>https://devikanth.github.io/</link>
-    <description>Recent content on Devi&#39;s Personal Blog</description>
+    <title>Hugo on Devi&#39;s Personal Blog</title>
+    <link>https://devikanth.github.io/categories/hugo/</link>
+    <description>Recent content in Hugo on Devi&#39;s Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Dec 2018 17:31:00 +0530</lastBuildDate>
     
-	<atom:link href="https://devikanth.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://devikanth.github.io/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,15 +22,6 @@ The site is being setup using hugo framework.
 hugo-tranquilpeak-theme is being used in this blog.
 The content is being published from https://forestry.io.
 Happy Blogging!</description>
-    </item>
-    
-    <item>
-      <title>About Me!</title>
-      <link>https://devikanth.github.io/about/</link>
-      <pubDate>Fri, 28 Dec 2018 15:42:05 +0530</pubDate>
-      
-      <guid>https://devikanth.github.io/about/</guid>
-      <description></description>
     </item>
     
   </channel>

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://devikanth.github.io/2018/12/hello-world/</loc>
+    <lastmod>2018-12-28T17:31:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://devikanth.github.io/about/</loc>
     <lastmod>2018-12-28T15:42:05+05:30</lastmod>
   </url>
@@ -13,18 +18,49 @@
   </url>
   
   <url>
+    <loc>https://devikanth.github.io/tags/blog/</loc>
+    <lastmod>2018-12-28T17:31:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://devikanth.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://devikanth.github.io/</loc>
-    <lastmod>2018-12-28T15:42:05+05:30</lastmod>
+    <lastmod>2018-12-28T17:31:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://devikanth.github.io/tags/forestry/</loc>
+    <lastmod>2018-12-28T17:31:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://devikanth.github.io/tags/hugo/</loc>
+    <lastmod>2018-12-28T17:31:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://devikanth.github.io/categories/hugo/</loc>
+    <lastmod>2018-12-28T17:31:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://devikanth.github.io/post/</loc>
+    <lastmod>2018-12-28T17:31:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://devikanth.github.io/tags/</loc>
+    <lastmod>2018-12-28T17:31:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
