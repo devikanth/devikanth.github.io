@@ -95,8 +95,9 @@ fields:
     - Bottom
     - Left
     - Right
+    - Top
   label: Thumbnail Image Position
-  description: keep it bottom as default
+  description: keep it Top as default
 - type: tag_list
   name: tags
   label: Tags
