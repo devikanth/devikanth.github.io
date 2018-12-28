@@ -45,8 +45,8 @@ fields:
     source:
       type: simple
     options:
-    - In
-    - Out
+    - in
+    - out
   name: coverMeta
   label: Cover Meta
   description: Where to display the Post Title and Date? In -on top of image; Out
