@@ -6,10 +6,19 @@
     <description>Recent content on Devi&#39;s Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Dec 2018 17:31:00 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 28 Dec 2018 21:32:14 +0530</lastBuildDate>
     
 	<atom:link href="https://devikanth.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sample</title>
+      <link>https://devikanth.github.io/2018/12/sample/</link>
+      <pubDate>Fri, 28 Dec 2018 21:32:14 +0530</pubDate>
+      
+      <guid>https://devikanth.github.io/2018/12/sample/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hello World!</title>
