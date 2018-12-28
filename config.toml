@@ -17,8 +17,8 @@ languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Devi's Personal Blog"
 theme = "hugo-tranquilpeak-theme"
-#disqusShortname = ""
-#googleAnalytics = "UA-123-45"
+disqusShortname = "devi-blog"
+#googleAnalytics = "UA-131403095-1"
 paginate = 12
 canonifyurls = true
 
