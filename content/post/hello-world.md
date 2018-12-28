@@ -6,6 +6,7 @@ coverImage = "https://res.cloudinary.com/gh-devikanth/image/upload/v1545998099/u
 coverMeta = "Out"
 coverSize = "Full"
 date = "2018-12-28T17:31:00+05:30"
+gallery = []
 keywords = ["Hugo", "Forestry", "Tranquilpeak"]
 showActions = true
 showMeta = true
@@ -14,7 +15,9 @@ showSocial = true
 showTags = true
 summary = "I have setup this blog using Hugo Framework, Tranquilpeak Theme and Forestry for Content Management System."
 tags = ["Blog", "Hugo", "Forestry"]
+thumbnailimage = "https://res.cloudinary.com/gh-devikanth/image/upload/v1546020175/uploads/hello-word-thumb.jpg"
 title = "Hello World!"
+
 +++
 # Hello World!
 
