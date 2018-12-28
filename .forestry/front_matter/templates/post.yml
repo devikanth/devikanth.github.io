@@ -1,0 +1,137 @@
+---
+label: Post
+hide_body: false
+is_partial: false
+fields:
+- type: select
+  name: author
+  config:
+    source:
+      type: simple
+    required: false
+    options:
+    - Devi Lakshmikanthan
+    - Anbuselvan Palaniyandi
+  label: Author
+  hidden: false
+- type: datetime
+  name: date
+  label: Date
+  hidden: false
+  config:
+    date_format: YYYY/MM/DD
+    required: true
+    time_format: hh:mm A ZZ
+- type: text
+  name: title
+  label: Title
+  description: Title of the post
+  config:
+    required: true
+- type: tag_list
+  description: One or More Categories. The first category would be the parent and
+    the 2nd category would be child
+  label: Categories
+  name: categories
+- type: file
+  label: Cover Image
+  name: coverImage
+  description: Cover Image, which will be displayed in the post as header.  This act
+    as thumbnail image, if nothing selected in the thumbnail image portion
+  config:
+    maxSize: '10'
+- type: boolean
+  name: showMeta
+  label: Show Meta
+  description: Do you want to display the date, category, etc.,?
+- type: select
+  config:
+    source:
+      type: simple
+    options:
+    - Full
+    - Partial
+  name: coverSize
+  label: Size of Cover Image
+  description: Full - Display full page, partial - display 60% of the image
+- type: text
+  name: coverCaption
+  label: Cover Caption
+  description: caption for cover image
+- type: select
+  config:
+    source:
+      type: simple
+    options:
+    - In
+    - Out
+  name: coverMeta
+  label: Cover Meta
+  description: Where to display the Post Title and Date? In -on top of image; Out
+    - outside the image
+- type: select
+  config:
+    source:
+      type: simple
+    options:
+    - Center
+    - Right
+    - Left
+  name: metaAlignment
+  label: Meta Alignment
+  description: The Post title and Dates would show in the selected position
+- type: file
+  label: Thumbnail Image
+  name: thumbnailimage
+  description: Thumbnail Image, if different from cover Image
+  config:
+    maxSize: '10'
+- type: select
+  name: thumbnailImagePosition
+  config:
+    source:
+      type: simple
+    options:
+    - Bottom
+    - Left
+    - Right
+  label: Thumbnail Image Position
+  description: keep it bottom as default
+- type: tag_list
+  name: tags
+  label: Tags
+  description: Tag the post with specific words
+- type: boolean
+  name: showTags
+  label: Show Tags
+  description: Do you want to display the tags in the post?
+- type: tag_list
+  name: keywords
+  label: Keywords
+  description: Search Engine to crawl the keywords
+- type: image_gallery
+  name: gallery
+  label: Gallery
+  description: Select Multiple Images if you want to display it as gallery
+- type: boolean
+  name: showPagination
+  label: Show Pagination
+  description: Do you want to display the Previous Post and Next Post at the bottom?
+- type: boolean
+  name: showSocial
+  label: Show Social
+  description: Do you want to display the sharing options at the bottom?
+- type: boolean
+  name: showActions
+  label: Show Actions
+  description: 'true: Show post actions (navigation, share links).'
+- type: text
+  name: summary
+  label: summary
+  description: Custom text to show on the homepage, but not displayed in the post.
+- type: boolean
+  name: comments
+  label: Comments
+  description: Do you want to allow the visitiors to comment this post?
+pages:
+- content/post/hello-world.md
