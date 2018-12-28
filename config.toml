@@ -164,7 +164,7 @@ canonifyurls = true
   scrollPagination = true
 
   # Your favicon path, default is "/favicon.png"
-  favicon = "https://www.iconsdb.com/icons/download/black/star-26-64.ico"
+  favicon = "images/star-26-64.ico"
 
   # Header configuration
   # The link at the right of the header is customizable
