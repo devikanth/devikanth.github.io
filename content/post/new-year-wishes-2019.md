@@ -5,7 +5,6 @@ comments = true
 coverImage = ""
 coverMeta = "in"
 date = "2019-01-01T00:00:57+05:30"
-draft = true
 gallery = []
 keywords = []
 showActions = true
