@@ -14,7 +14,7 @@ showSocial = false
 showTags = false
 summary = ""
 tags = []
-thumbnailimage = "https://res.cloudinary.com/gh-devikanth/image/upload/v1546279379/uploads/2019.jpg"
+thumbnailimage = "https://res.cloudinary.com/gh-devikanth/image/upload/v1546279538/uploads/2019.jpg"
 title = "New Year Wishes 2019"
 
 +++
