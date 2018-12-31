@@ -1,6 +1,6 @@
 +++
 author = "Devi Lakshmikanthan"
-categories = []
+categories = ["wishes"]
 comments = true
 coverImage = ""
 coverMeta = "in"
@@ -9,10 +9,10 @@ gallery = []
 keywords = []
 showActions = true
 showPagination = true
-showSocial = false
-showTags = false
+showSocial = true
+showTags = true
 summary = ""
-tags = []
+tags = ["2019", "New Year"]
 thumbnailimage = "https://res.cloudinary.com/gh-devikanth/image/upload/v1546279538/uploads/2019.jpg"
 title = "New Year Wishes 2019"
 
