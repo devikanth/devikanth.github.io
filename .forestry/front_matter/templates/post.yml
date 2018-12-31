@@ -95,6 +95,5 @@ fields:
   description: Do you want to allow the visitiors to comment this post?
 pages:
 - content/post/new-year-wishes-2019.md
-- content/post/sample.md
 - content/about.md
 - content/post/hello-world.md
