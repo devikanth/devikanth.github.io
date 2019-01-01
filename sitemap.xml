@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://devikanth.github.io/2019/01/new-year-wishes-2019/</loc>
+    <lastmod>2019-01-01T00:01:57+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://devikanth.github.io/2018/12/hello-world/</loc>
     <lastmod>2018-12-28T17:31:00+05:30</lastmod>
   </url>
@@ -10,6 +15,12 @@
   <url>
     <loc>https://devikanth.github.io/about/</loc>
     <lastmod>2018-12-28T10:12:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devikanth.github.io/tags/2019/</loc>
+    <lastmod>2019-01-01T00:01:57+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -30,7 +41,7 @@
   
   <url>
     <loc>https://devikanth.github.io/</loc>
-    <lastmod>2018-12-28T17:31:00+05:30</lastmod>
+    <lastmod>2019-01-01T00:01:57+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -53,14 +64,26 @@
   </url>
   
   <url>
+    <loc>https://devikanth.github.io/tags/new-year/</loc>
+    <lastmod>2019-01-01T00:01:57+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://devikanth.github.io/post/</loc>
-    <lastmod>2018-12-28T17:31:00+05:30</lastmod>
+    <lastmod>2019-01-01T00:01:57+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://devikanth.github.io/tags/</loc>
-    <lastmod>2018-12-28T17:31:00+05:30</lastmod>
+    <lastmod>2019-01-01T00:01:57+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://devikanth.github.io/categories/wishes/</loc>
+    <lastmod>2019-01-01T00:01:57+05:30</lastmod>
     <priority>0</priority>
   </url>
   
